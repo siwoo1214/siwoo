@@ -2,9 +2,6 @@
 
 꾸준한 배움을 바탕으로 발전해나가는 **백엔드 개발자 지망생**입니다.
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hng1nthr@gmail.com)](mailto:hng1nthr@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/siwoo1214)](https://github.com/siwoo1214)
-
 ---
 
 ## 🙋‍♂️ About Me
